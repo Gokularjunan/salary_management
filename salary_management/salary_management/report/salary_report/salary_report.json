@@ -1,0 +1,27 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2021-09-05 17:32:59.683308",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "modified": "2021-09-05 17:34:33.676089",
+ "modified_by": "Administrator",
+ "module": "Salary Management",
+ "name": "salary report",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "query": "select employee_name,total_salary,net_pay from `tabsalary_slips`",
+ "ref_doctype": "salary_slips",
+ "report_name": "salary report",
+ "report_type": "Query Report",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ]
+}

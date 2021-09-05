@@ -1,0 +1,61 @@
+{
+ "actions": [],
+ "autoname": "EM.#####",
+ "creation": "2021-09-03 19:37:32.653119",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "employee_name",
+  "employee_id",
+  "joining_date",
+  "designation"
+ ],
+ "fields": [
+  {
+   "fieldname": "employee_name",
+   "fieldtype": "Data",
+   "label": "employee name",
+   "unique": 1
+  },
+  {
+   "fieldname": "employee_id",
+   "fieldtype": "Data",
+   "label": "employee id"
+  },
+  {
+   "fieldname": "joining_date",
+   "fieldtype": "Date",
+   "label": "joining date"
+  },
+  {
+   "fieldname": "designation",
+   "fieldtype": "Data",
+   "label": "designation"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2021-09-05 17:39:08.096048",
+ "modified_by": "Administrator",
+ "module": "Salary Management",
+ "name": "employee",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}
