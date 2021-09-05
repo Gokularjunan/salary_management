@@ -11,7 +11,11 @@ setup(
 	version=version,
 	description="calculates salary",
 	author="gokul",
+<<<<<<< HEAD
 	author_email="gokul2001kit@gmail.com",
+=======
+	author_email="gokul@gmail.com",
+>>>>>>> 04e3750b72244af45d3432551fc768ebdf5a1418
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,

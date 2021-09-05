@@ -1,20 +1,32 @@
 {
  "actions": [],
+<<<<<<< HEAD
  "autoname": "EM.#####",
  "creation": "2021-09-03 19:37:32.653119",
+=======
+ "autoname": "Prompt",
+ "creation": "2021-08-28 09:31:54.518640",
+>>>>>>> 04e3750b72244af45d3432551fc768ebdf5a1418
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
   "employee_name",
+<<<<<<< HEAD
   "employee_id",
   "joining_date",
+=======
+  "joining_date",
+  "phone_no",
+  "employee_id",
+>>>>>>> 04e3750b72244af45d3432551fc768ebdf5a1418
   "designation"
  ],
  "fields": [
   {
    "fieldname": "employee_name",
    "fieldtype": "Data",
+<<<<<<< HEAD
    "label": "employee name",
    "unique": 1
   },
@@ -22,6 +34,9 @@
    "fieldname": "employee_id",
    "fieldtype": "Data",
    "label": "employee id"
+=======
+   "label": "employee name"
+>>>>>>> 04e3750b72244af45d3432551fc768ebdf5a1418
   },
   {
    "fieldname": "joining_date",
@@ -29,6 +44,19 @@
    "label": "joining date"
   },
   {
+<<<<<<< HEAD
+=======
+   "fieldname": "phone_no",
+   "fieldtype": "Data",
+   "label": "phone no"
+  },
+  {
+   "fieldname": "employee_id",
+   "fieldtype": "Int",
+   "label": "employee id"
+  },
+  {
+>>>>>>> 04e3750b72244af45d3432551fc768ebdf5a1418
    "fieldname": "designation",
    "fieldtype": "Data",
    "label": "designation"
@@ -36,7 +64,11 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
+<<<<<<< HEAD
  "modified": "2021-09-05 17:39:08.096048",
+=======
+ "modified": "2021-08-28 09:34:10.487708",
+>>>>>>> 04e3750b72244af45d3432551fc768ebdf5a1418
  "modified_by": "Administrator",
  "module": "Salary Management",
  "name": "employee",

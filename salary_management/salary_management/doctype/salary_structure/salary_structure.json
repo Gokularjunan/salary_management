@@ -1,7 +1,11 @@
 {
  "actions": [],
  "autoname": "field:employee_name",
+<<<<<<< HEAD
  "creation": "2021-09-03 19:44:59.613652",
+=======
+ "creation": "2021-08-28 16:14:24.183982",
+>>>>>>> 04e3750b72244af45d3432551fc768ebdf5a1418
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
@@ -35,7 +39,11 @@
   {
    "fieldname": "pf",
    "fieldtype": "Currency",
+<<<<<<< HEAD
    "label": "pf"
+=======
+   "label": "PF"
+>>>>>>> 04e3750b72244af45d3432551fc768ebdf5a1418
   },
   {
    "fieldname": "total_salary",
@@ -60,7 +68,11 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
+<<<<<<< HEAD
  "modified": "2021-09-05 16:06:00.463541",
+=======
+ "modified": "2021-08-29 13:46:40.492380",
+>>>>>>> 04e3750b72244af45d3432551fc768ebdf5a1418
  "modified_by": "Administrator",
  "module": "Salary Management",
  "name": "salary_structure",
