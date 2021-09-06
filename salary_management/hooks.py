@@ -6,11 +6,7 @@ app_publisher = "gokul"
 app_description = "calculates salary"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-<<<<<<< HEAD
 app_email = "gokul2001kit@gmail.com"
-=======
-app_email = "gokul@gmail.com"
->>>>>>> 04e3750b72244af45d3432551fc768ebdf5a1418
 app_license = "MIT"
 
 # Includes in <head>
